@@ -1,0 +1,1 @@
+My pupillometry time series cleaning pipeline in Python (regressing out blinks and saccades), utilizing Knapen et al.'s FIRdeconvolution. This pipeline was used in Moyal, Turker, Luh, Swallow (2022) and in Riley, Turker, Wang, Swallow, Anderson, & De Rosa (2022).
